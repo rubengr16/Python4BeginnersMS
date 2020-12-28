@@ -4,4 +4,4 @@
 # no output will be displayed
 
 # comment shortcut: ctrl + k + c
-# comment shortcut: ctrl + k + u
+# uncomment shortcut: ctrl + k + u
